@@ -1,6 +1,3 @@
-# unannn의  Github 입니다 👋
-
-
 ### 집중적으로 공부하고 있어요 🔭
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
